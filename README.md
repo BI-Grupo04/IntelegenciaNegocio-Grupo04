@@ -1,3 +1,3 @@
 # Prueba_BI
-### Enlace despliegue https://share.streamlit.io/cristian-aq/prueba_bi/main/app.py
+### Enlace despliegue https://share.streamlit.io/bi-grupo04/intelegencianegocio-grupo04/main/app.py
  
